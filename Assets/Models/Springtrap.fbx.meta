@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 894076ca2ed9f44f8a0508d1f026eee5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -105101818050358739
+    second: SpringTrap--Glimpse (1)
+  - first:
+      74: 1884181698839432720
+    second: SpringTrap--CPU(Revive)
+  - first:
+      74: 5080133631259395384
+    second: SpringTrap--CPU(Lurch)
+  - first:
+      74: -3519393545885083307
+    second: SpringTrap--Jumpscare
+  - first:
+      74: -4276149612570770057
+    second: SpringTrap--ChargePose
+  - first:
+      74: -2822501458989974640
+    second: SpringTrap--Haywire
+  - first:
+      74: -5397780033484922747
+    second: SpringTrap--Glimpse
+  - first:
+      74: -905082144454857366
+    second: SpringTrap--Idle
+  - first:
+      74: -6084606850496565076
+    second: SpringTrap--CPU(Shutdown)
+  - first:
+      74: 7645248325550536293
+    second: SpringTrap--ShutdownFinalPose
+  - first:
+      74: -4106200041396647735
+    second: SpringTrap--Decloaked
+  - first:
+      74: 7676355193358257581
+    second: SpringTrap--Shocked
+  - first:
+      74: 636679742508059580
+    second: SpringTrap--Glimpse (2)
+  - first:
+      74: -1443231035146356532
+    second: SpringTrap--JumpscareFinalPose
+  - first:
+      74: 5258044931467013033
+    second: SpringTrap--Shutdown
+  - first:
+      74: 1732804863288716876
+    second: SpringTrap--CPU(Shutdown)_FinalPose
+  - first:
+      74: -34769205881915584
+    second: SpringTrap--Charge
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Springtrap_Body
+    second: {fileID: 2100000, guid: e5e191c389eb84293b6d85fa13865452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Springtrap_Eyes
+    second: {fileID: 2100000, guid: 7f35e834fab89495cacee908ad4af593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Springtrap_Skeleton
+    second: {fileID: 2100000, guid: 9af1b68f7a3394f49ab556c1dd608a19, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8509734622614082937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8509734622614082919}
+  - component: {fileID: 8509734622614082918}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8509734622614082919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8509734622614082937}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5820681, y: 6.514558, z: -5.8484874}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8509734622614082918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8509734622614082937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc601426867744d19a3c800eca71d3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: door slam
+    clip: {fileID: 8300000, guid: 7817b99deff2f4371adfcbb4e4f1b62c, type: 3}
+    volume: 0.652
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: monitor up
+    clip: {fileID: 8300000, guid: 7b7b2abfe35ae47d5b79147c1b326b3f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: jumpscare
+    clip: {fileID: 8300000, guid: 24c8efdb7f12f49d1a3bcec754afd5e4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: golden freddy scream
+    clip: {fileID: 8300000, guid: 593a355bf94ac46aa9e7d7bbfd48d4dc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: office ambience
+    clip: {fileID: 8300000, guid: 6ec1d1c739ac64ace85991141c3af898, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: freddy mask on
+    clip: {fileID: 8300000, guid: 0a1db8bccca4d438fbbe07dc4e79f8bc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: please deposit 5 coins
+    clip: {fileID: 8300000, guid: 4276839b36a064d06ac1c3b6c0f88728, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: thank you
+    clip: {fileID: 8300000, guid: 719af4ea4ff7f46f8817d1cba3fa3b37, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: omc sound
+    clip: {fileID: 8300000, guid: 272f0b4a2cb654d3f89416db3c9eede0, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: omc grab
+    clip: {fileID: 8300000, guid: 38a6b804db5cd4a35a228d8c8f150cdb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: tamper
+    clip: {fileID: 8300000, guid: 21d1a063121de41e682b7aabb5e6e329, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: nose honk
+    clip: {fileID: 8300000, guid: 80cdef18866534ad3abe6c97a1d4bb44, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
